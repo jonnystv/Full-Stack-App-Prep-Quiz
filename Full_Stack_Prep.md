@@ -38,3 +38,4 @@ What are we using the MongoDB Driver for?
     
     A: 
 
+![Data Flow](data_flow.png)
